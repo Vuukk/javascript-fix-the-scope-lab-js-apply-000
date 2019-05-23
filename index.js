@@ -13,6 +13,5 @@ var two = 2
  return n + two
 }
 function funkyFunction () {
-  return function() {
-    return "FUNKY!"
-var animal
+  var theFunk = funkyFunction()
+return animal
