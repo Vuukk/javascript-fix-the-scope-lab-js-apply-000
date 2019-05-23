@@ -13,6 +13,6 @@ var two = 2
  return n + two
 }
 function funkyFunction () {
-  var theFunk = funkyFunction()
+  var theFunk = "FUNKY!";
 return functionName()
 }
