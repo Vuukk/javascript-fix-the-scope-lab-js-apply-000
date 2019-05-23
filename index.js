@@ -13,6 +13,8 @@ var two = 2
  return n + two
 }
 
-  var funkyFunction = function outsideFunction
+  var funkyFunction = function outsideFunction() {
+    
+  }
 return theFunk
 }
