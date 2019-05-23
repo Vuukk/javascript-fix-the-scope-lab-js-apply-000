@@ -18,4 +18,4 @@ var two = 2
       return 'Funky!'
     }
   }
-console.log(funkyFunction())
+console.log(funkyFunction()())
