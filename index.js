@@ -18,3 +18,4 @@ var two = 2
       return 'FUNKY!'
     }
   }
+console.log(funkyFunction())
