@@ -15,3 +15,4 @@ var two = 2
 function funkyFunction () {
   var theFunk = funkyFunction()
 return animal
+}
