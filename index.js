@@ -18,5 +18,3 @@ var two = 2
       return 'FUNKY!'
     }
   }
-return theFunk
-}
