@@ -15,7 +15,7 @@ var two = 2
 
   var funkyFunction = function outsideFunction() {
     return function insideFunction() {
-      return 'FUNKY!'
+      return 'Funky!'
     }
   }
 console.log(funkyFunction())
